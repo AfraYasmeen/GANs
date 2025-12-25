@@ -1,3 +1,11 @@
+__pycache__/
+*.py[cod]
+.venv/
+env/
+outputs/
+*.pth
+*.pkl
+*.ckpt
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
