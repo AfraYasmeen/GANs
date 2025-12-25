@@ -6,8 +6,7 @@ plus a structured/tabular GAN notebook for synthesizing and oversampling
 tabular data.
 
 Key files
-- `src/generate_images_from_prompt.py` — CLIP-guided StyleGAN2 latent-optimization script (text -> image).
-- `src/generate_images_from_prompt.ipynb` — notebook conversion of the script for interactive runs.
+- `src/GANs_Images.ipynb` — notebook conversion of the script for interactive runs.
 - `src/requirements.txt` — Python dependencies used by the image-generation notebook/script.
 - `src/GANs_Sturctured.ipynb` — a notebook that implements a structured/tabular GAN (generator, discriminator, training loop, oversampling and diagnostics).
 
