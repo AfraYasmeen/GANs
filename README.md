@@ -78,9 +78,3 @@ Run the (basic) tests:
 pytest -q
 ```
 
-Further help
-
-If you want, I can:
-- Add a short HOWTO for preparing a StyleGAN2 `.pkl` checkpoint and downloading common public checkpoints.
-- Add interactive widgets to the notebook for prompt/steps/lr tuning.
-- Create example prompts and a gallery of outputs for quick reference.
